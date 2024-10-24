@@ -19,8 +19,6 @@ When first on the site, you can view all posts by other users, but in order to c
 ![](./public/assets/techblogSS2.png)
 
 ## Links
-- https://tech-blog-ncr7.onrender.com/
-- https://github.com/ckisi/tech-blog
 
-## Credits
-Xpert Learning Assistant
+
+
